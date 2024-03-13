@@ -25,8 +25,7 @@
 <h2 align="center">⚒️ Languages / Tools I use! ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=,python,sql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,python" />
 </div>
 
 <br/>
