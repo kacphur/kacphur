@@ -1,5 +1,6 @@
-
 <div align="center">
+
+<pre>
 █▒  ██   ██    █████ █▓███  ██  ▓█ ██  █▒ █████  
 ██ ██   ▓███  ██     ██  █▒ ██  ██ ▒█  ██ ██  █▓ 
 ██▒█   ██  █▒ ██     ▒█▓██  ███▒█▓ ██  ██ ▓████  
@@ -10,8 +11,9 @@
 ▒▒   ' '▒      '▒▒▒         ▒   ▒▒  ▒  '  ▒▒   ' 
 '░      '       '░░         ░   '░  ░     '░     
  '               ''         '    '  '      '
-</div>
-  
+</pre>
+
+<pre>
 ┌─[ root@localhost ]────────────────────────────────────────┐
 │ $ whoami                                                  │
 │ > kacper                                                  │
@@ -22,11 +24,19 @@
 │ $ cat status.txt                                          │
 │ > doing stuff                                             │
 └───────────────────────────────────────────────────────────┘
+</pre>
 
+</div>
+
+<br>
+
+```python
 def(projects):
-
-kacp.lol    →  main whole system, front/back-end          [react/next.js/js]
+    kacp.lol   →   main whole system, front/back-end     [react / next.js / js]
+```
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/-kacp.lol-direct-00FF41?style=flat-square&labelColor=000000" />
+
 </div>
