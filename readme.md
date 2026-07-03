@@ -31,7 +31,6 @@
 <br>
 
 ```python
-def(projects):
     kacp.lol   →   main whole system, front/back-end     [react / next.js / js]
 ```
 
