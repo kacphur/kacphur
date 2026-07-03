@@ -30,6 +30,8 @@
 
 <br>
 
+🌱 projects:
+
 ```python
     kacp.lol   →   main whole system, front/back-end     [react / next.js / js]
 ```
