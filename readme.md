@@ -28,6 +28,7 @@
 ```python
     kacp.lol   →   main whole system, front/back-end     [react / next.js / js]
     authyleak  →   osu! auth leaker & offset finder / grabber     [python]
+    squtor     →   scottish qualifications study site in form of helping studying [full project]
 ```
 
 <div align="center">
